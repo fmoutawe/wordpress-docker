@@ -1,4 +1,10 @@
-## Wordpress Docker Composer
+# Wordpress Docker Composer
+
+## Installation
+
+* Open a terminal
+* Run `composer install` command in src folder
+* Run `docker-compose up -d` command in root folder
 
 ## Inspired by
 
